@@ -1,0 +1,16 @@
+.navContainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color:rgb(10, 9, 9);
+}
+
+/* .navContainer link{ */
+    /* text-decoration: none; 
+/* } */
+
+.navContainer button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
